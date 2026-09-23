@@ -1,3 +1,5 @@
 ### руки на стол ноги под стол спину прямо
-```#include<stdio.h> int main{puts("Я слежу за тобой\n");}```
+```С 
+#include<stdio.h> int main{puts("Я слежу за тобой\n");}
+```
 
